@@ -1,0 +1,23 @@
+
+.form-container {
+    background-color: #5f63e4;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  /* src/styles.css */
+.App {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    text-align: center;
+    padding: 40px;
+   
+  }
+  .error {
+    color: red;
+    font-size: 0.8em;
+  }
+  
+  /* src/styles.css */
+body {
+  background-color: #97b9e9;
+  /* Add more global styles as needed */
+}
